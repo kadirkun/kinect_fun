@@ -1,0 +1,25 @@
+[notice ] PG v.21
+
+[notice ] -----------------------------------------------
+[notice ] setting OF path to: "/Applications/of_v0.12.0_osx_release"
+[notice ] from -o option
+[notice ] target platform is: osx
+[notice ] project path is: "/Users/kadirkun/Workspace/Projects/kinect_fun"
+[notice ] setting up new project "/Users/kadirkun/Workspace/Projects/kinect_fun"
+[notice ] adding addon: ofxGui
+[notice ] adding addon: ofxKinect
+[notice ] adding addon: ofxOpenCv
+[notice ] saving addons.make
+[notice ] project created! 
+[notice ] -----------------------------------------------
+
+
+1 project created [notice ] in 0.18734 seconds
+
+
+
+
+
+(command used: /Applications/of_v0.12.0_osx_release/projectGenerator/projectGenerator.app/Contents/Resources/app/app/projectGenerator  -o"/Applications/of_v0.12.0_osx_release" -a"ofxGui,ofxKinect,ofxOpenCv" -p"osx"  -t"" "/Users/kadirkun/Workspace/Projects/kinect_fun")
+
+
